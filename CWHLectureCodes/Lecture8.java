@@ -87,6 +87,30 @@ public class Lecture8 {
         System.out.println(!(5>65));; // true
 
         // Bitwise  Operators
+
+
+        // Bitwise  Operators
+
+
+
+        // Bitwise AND(&)
+        // true true true , false in all other conditions
+        // if the first condition is false , then the result is by default false
+        // But Compiler will  check both the  conditions separately during compilation 
+        // Time Complexity and Space Complexity :- && > &
+
+        
+
+
+
+        // Bitwise OR(||)
+        // false false false  , true in all other conditions
+        // if the first condition is true , then the result is by default true
+        // But Compiler will  check both  the  condition separately during compilation
+        // Time Complexity and Space Complexity :- || > |
+        
+        
+        
          
 
 
